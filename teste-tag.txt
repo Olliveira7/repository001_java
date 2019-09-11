@@ -1,1 +1,1 @@
-testando os conflitos no git
+testando os conflitos no git criando conflitos
